@@ -10,6 +10,9 @@ https://raw.githubusercontent.com/RodrigoMvs123/Rotating-Planets-in-JUST-CSS-/ma
 
 ##
 
+https://github.com/RodrigoMvs123/Rotating-Planets-in-JUST-CSS-/blame/main/README.md
+
+##
 index.html 
 <!DOCTYPE html>
     <html lang="en">
